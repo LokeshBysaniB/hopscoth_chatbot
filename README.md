@@ -30,7 +30,7 @@ For a visual overview, open [Architecture.html](Architecture.html) in a browser.
 |------|---------|
 | `app.py` | The Streamlit chatbot app |
 | `hopscotch_policy.md` | The return and refund policy the bot answers from |
-| `Architecture.html` | Architecture diagram |
+| `technical_architecture.html` | Architecture diagram |
 | `requirements.txt` | Python dependencies |
 | `.env` | Your OpenRouter API key (not committed) |
 
